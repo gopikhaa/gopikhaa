@@ -16,3 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopikhaa&show_icons=true&locale=en" alt="gopikhaa" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopikhaa&" alt="gopikhaa" /></p>
