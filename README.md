@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gopika</h1>
-<h3 align="center">A passionate frontend developer building websites and mobile apps using React and Flutter.</h3>
+<h1 align="center">Hi , I'm Gopika</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopikhaa&label=Profile%20views&color=0e75b6&style=flat" alt="gopikhaa" /> </p>
 
